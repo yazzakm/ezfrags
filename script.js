@@ -3,7 +3,8 @@ document.getElementById('downloadFree').addEventListener('click', function() {
 });
 
 document.getElementById('purchasePremium').addEventListener('click', function() {
-    window.open('https://discord.gg/dopamina', '_blank');
+    window.open('https://files.catbox.moe/n5ss5w.zip', '_blank');
 });
+
 
 
